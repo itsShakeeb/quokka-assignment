@@ -18,7 +18,6 @@ const Login = () => {
     return () => {};
   }, []);
 
-  console.log("called");
   const onChangeHandler = (e) => {
     const { id, value } = e.target;
     setUser((prevState) => ({
