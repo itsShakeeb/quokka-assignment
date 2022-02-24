@@ -1,4 +1,4 @@
 export const credtentials = {
-  email: "admin@quokka.com",
-  password: "1234567",
+  email: "task@gmail.com",
+  password: "12345678",
 };
